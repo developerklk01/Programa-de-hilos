@@ -1,0 +1,6 @@
+C:\Users\zer0_\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\zer0_\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\zer0_\source\repos\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\zer0_\source\repos\Hilos\Hilos\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\zer0_\source\repos\Hilos\Hilos\obj\Debug\Hilos.exe
+C:\Users\zer0_\source\repos\Hilos\Hilos\obj\Debug\Hilos.pdb
